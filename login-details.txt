@@ -1,0 +1,6 @@
+http://localhost/fyp-car-rental/admin/index.php
+User: admin
+pass: scriptandtools.com
+
+renter@gmail.com
+admin
